@@ -30,7 +30,7 @@ class FibonacciTest {
     @Test
     public void fibonacciTest_whenN2_then1() {
         // GIVEN
-        int a = 3;
+        int a = 2;
 
         // WHEN
         int actual = Fibonacci.fibonacci(a);
